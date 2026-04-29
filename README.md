@@ -16,7 +16,7 @@ Requirements
     i. ball.png
     ii. ball2.png
     iii. ball3.png
-    iv. ball4.png
+    iiii. ball4.png
 
 How to Run
 1. Copy the code into a Java file named "ProjectileMotion.java".
