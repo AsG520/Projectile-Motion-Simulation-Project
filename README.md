@@ -13,10 +13,10 @@ Requirements
 - Java (JDK or higher).
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 - Images files:
-  i. ball.png
-  ii. ball2.png
-  iii. ball3.png
-  iv. ball4.png
+    i. ball.png
+    ii. ball2.png
+    iii. ball3.png
+    iv. ball4.png
 
 How to Run
 1. Copy the code into a Java file named "ProjectileMotion.java".
