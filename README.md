@@ -13,10 +13,10 @@ Requirements
 - Java (JDK or higher).
 - IDE (e.g., VS Code, Eclipse, or IntelliJ).
 - Images files:
-    i. ball.png
-    ii. ball2.png
-    iii. ball3.png
-    iiii. ball4.png
+    1. ball.png
+    2. ball2.png
+    3. ball3.png
+    4. ball4.png
 
 How to Run
 1. Copy the code into a Java file named "ProjectileMotion.java".
@@ -25,6 +25,7 @@ How to Run
 4. Run the program: "java ProjectileMotion.java".
   
 Video Details for Simulation
-- [Will Come Soon!].
+
+The video showcases the physics calculations and coding for how this simulation was made. Experimentation with the launch angles and velocities of the balls were recorded in this simulation. Overall, this video will help give me a reflection on what I learned and for others who are interesed in physics and this topic :D.
 
 Video Link of Simulating Projectile Motion in Java (YouTube) - [Releasing: 2026-05-10].
