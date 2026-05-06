@@ -28,4 +28,4 @@ Video Details for Simulation
 
 The video showcases the physics calculations and coding for how this simulation was made. Experimentation with the launch angles and velocities of the balls were recorded in this simulation. Overall, this video will help give me a reflection on what I learned and for others who are interesed in physics and this topic :D.
 
-Video Link of Simulating Projectile Motion in Java (YouTube) - [Releasing: 2026-05-10].
+Video Link of Simulating Projectile Motion in Java (YouTube) - https://youtu.be/__3sOAAOZck?si=eiUUCmwvbQiKECO
