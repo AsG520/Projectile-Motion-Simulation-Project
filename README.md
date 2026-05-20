@@ -1,10 +1,16 @@
 # Projectile-Motion-Simulation-Project
 
 Features in Simulation
-- [Will Come Soon!].
+- Simulates four balls undergoing their own parabolic motion.
+- Force of gravity decreases the vertical velocity component over the period of time.
+- Horizontal velocity motion stays constant throughout the journey.
+- Has animation with the use of Java Timer.
+- Implemented ground detection checks for each seperate ball, when ball makes contact rest is approached (0m/s).
+- Can distinguish between the angles 22.5, 45, 67.5, and 90.0 for distance observation records.
 
 Physics Concepts in Simulation
-- [Will Come Soon!].
+- Horizontal Velocity (vX) = v * cos * θ.
+- Vertical Velocity (vY) = v * sin * θ.
   
 How it Works
 - [Will Come Soon!].
