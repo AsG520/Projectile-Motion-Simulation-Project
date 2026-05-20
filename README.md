@@ -11,9 +11,14 @@ Features in Simulation
 Physics Concepts in Simulation
 - Horizontal Velocity (vX) = v * cos * θ.
 - Vertical Velocity (vY) = v * sin * θ.
+- Trigonometric Functions (Sine, Cosine, & Tangent).
   
 How it Works
-- [Will Come Soon!].
+- The program runs a window that is 1200 by 600 in size.
+- Initializes four balls on the screen from JLabels.
+- Balls are launched basiced on the angle it creates with the ground.
+- Positions of the balls are updated by the horizontal and vertical velocity components.
+- All balls are in the air and curved in following u-shape motion.
 
 Requirements
 - Java (JDK or higher).
