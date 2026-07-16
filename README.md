@@ -2,8 +2,7 @@
 
 Visual of Simulation
 <br>
-<img width="1130" height="632" alt="Image" src="https://github.com/user-attachments/assets/3d3a8c94-09de-4470-a2ee-6be8ea2cabbd" />
-<!-- 1476, 732 -->
+<img width="1376" height="632" alt="Image" src="https://github.com/user-attachments/assets/3d3a8c94-09de-4470-a2ee-6be8ea2cabbd" />
 
 Features in Simulation
 - Simulates four balls undergoing their own parabolic motion.
