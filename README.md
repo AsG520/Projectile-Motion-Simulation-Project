@@ -1,5 +1,9 @@
 # Projectile-Motion-Simulation-Project
 
+Visual of Simulation
+<br>
+<img width="1476" height="732" alt="Image" src="https://github.com/user-attachments/assets/3d3a8c94-09de-4470-a2ee-6be8ea2cabbd" />
+
 Features in Simulation
 - Simulates four balls undergoing their own parabolic motion.
 - Force of gravity decreases the vertical velocity component over the period of time.
