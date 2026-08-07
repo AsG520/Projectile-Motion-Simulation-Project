@@ -1,5 +1,14 @@
 # Projectile-Motion-Simulation-Project
 
+## Table of Contents
+- Visual of Simulation
+- Features in Simulation
+- Physics Concepts in Simulation
+- How it Works
+- Requirements
+- How to Run
+- Video Details for Simulation
+
 ## Visual of Simulation
 <img width="1476" height="732" alt="Image" src="https://github.com/user-attachments/assets/3d3a8c94-09de-4470-a2ee-6be8ea2cabbd" />
 
