@@ -1,13 +1,13 @@
-# 🏹 Projectile-Motion-Simulation-Project
+# 🏹 Projectile Motion Simulation Project
 
 ## 📘 Table of Contents
-- Visual of Simulation
-- Features in Simulation
-- Physics Concepts in Simulation
-- How it Works
-- Requirements
-- How to Run
-- Video Details for Simulation
+- 🎨 Visual of Simulation
+- 🔥 Features in Simulation
+- 📝 Physics Concepts in Simulation
+- 🛠️ How it Works
+- 🎯 Requirements
+- 💻 How to Run
+- 📹 Video Details for Simulation
 
 ## 🎬 Short Clip of Simulation
 https://github.com/user-attachments/assets/a897284e-8172-4a03-91e6-bab1444d2b8e
